@@ -35,7 +35,7 @@
         "isEquippable": false,
         "isUseable": false,
         "name": "Seashell",
-        "rarityScavenge": 9,
+        "rarityScavenge": 99,
 		"rarityLocale": 5,
         "rarityTrade": 7,
         "campOrdinalRequired": 2,
